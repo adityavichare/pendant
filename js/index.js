@@ -1,4 +1,4 @@
-      var imagesArray = ["http://pngimg.com/uploads/necklace/necklace_PNG31.png", "https://media.jewelfeed.com/catalog/items/fcd91cee-9835-44b9-b31e-6fdedd4f3540.png","http://pngimg.com/uploads/necklace/necklace_PNG31.png", "https://unixtitan.net/images/bling-transparent-2.png", "https://media.jewelfeed.com/catalog/items/fcd91cee-9835-44b9-b31e-6fdedd4f3540.png.350x350_q85_background.png"];
+      var imagesArray = ["p1.png", "https://media.jewelfeed.com/catalog/items/fcd91cee-9835-44b9-b31e-6fdedd4f3540.png","http://pngimg.com/uploads/necklace/necklace_PNG31.png", "https://unixtitan.net/images/bling-transparent-2.png", "p1.png"];
       var heartsOutside = ["","","","","","","",""]
       var HeartsBackground = {
                 heartHeight: 100,
