@@ -1,0 +1,39 @@
+body {
+  
+  height: 180px;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.flex-container {
+  display: flex;
+  flex-wrap: nowrap;
+  background: #263238;
+}
+
+.flex-container .box {
+  background: #263238;
+  width: 100%;
+  margin: 10px;
+  text-align: center;
+  line-height: 75px;
+  font-size: 30px;
+}
+
+    .glow {
+        -webkit-animation-duration: 1s;
+        -webkit-animation-name: glow;
+        -webkit-animation-direction: alternate;
+        -webkit-animation-iteration-count: infinite;
+        animation-duration: 1s;
+        animation-name: glow;
+        animation-direction: alternate;
+        animation-iteration-count: infinite;
+    
+    }
+    
+    @-webkit-keyframes glow {
+        from { text-shadow: 0 0 0px black; }
+        to { text-shadow: 2px 2px 20px white; }
+    }
